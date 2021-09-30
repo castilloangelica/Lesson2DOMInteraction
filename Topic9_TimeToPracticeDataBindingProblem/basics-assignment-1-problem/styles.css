@@ -21,14 +21,14 @@ section {
 h2 {
   font-size: 2rem;
   border-bottom: 4px solid #ccc;
-  color: #970076;
+  color: magenta;
   margin: 0 0 1rem 0;
 }
 
 p {
   font-size: 1.25rem;
   font-weight: bold;
-  background-color: #970076;
+  background-color: magenta;
   padding: 0.5rem;
   color: white;
   border-radius: 25px;
@@ -41,7 +41,7 @@ input {
 
 input:focus {
   outline: none;
-  border-color: #1b995e;
+  border-color: magenta;
   background-color: #d7fdeb;
 }
 
